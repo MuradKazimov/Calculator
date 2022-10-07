@@ -1,0 +1,11 @@
+C:\Users\Murad\source\repos\Calculator0\Calculator0\bin\Debug\Calculator0.exe.config
+C:\Users\Murad\source\repos\Calculator0\Calculator0\bin\Debug\Calculator0.exe
+C:\Users\Murad\source\repos\Calculator0\Calculator0\bin\Debug\Calculator0.pdb
+C:\Users\Murad\source\repos\Calculator0\Calculator0\obj\Debug\Calculator0.csproj.AssemblyReference.cache
+C:\Users\Murad\source\repos\Calculator0\Calculator0\obj\Debug\Calculator0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Murad\source\repos\Calculator0\Calculator0\obj\Debug\Calculator0.Form1.resources
+C:\Users\Murad\source\repos\Calculator0\Calculator0\obj\Debug\Calculator0.Properties.Resources.resources
+C:\Users\Murad\source\repos\Calculator0\Calculator0\obj\Debug\Calculator0.csproj.GenerateResource.cache
+C:\Users\Murad\source\repos\Calculator0\Calculator0\obj\Debug\Calculator0.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\Calculator0\Calculator0\obj\Debug\Calculator0.exe
+C:\Users\Murad\source\repos\Calculator0\Calculator0\obj\Debug\Calculator0.pdb
